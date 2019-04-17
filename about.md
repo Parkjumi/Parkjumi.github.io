@@ -119,13 +119,13 @@ title: About Long Haul
 		<table>
 			<tr>
 				<td>
-					<img src="{{ '/assets/img/multi.JPG'}}" style="width:300px;margin-bottom:0" alt="">
+					<img src="{{ '/assets/img/multi.JPG'}}" style="width:330px;margin-bottom:0" alt="">
 				</td>
 				<td>
-					<img src="{{ '/assets/img/Engineer Information Processing.JPG'}}" style="width:300px;margin-bottom:0" alt="">
+					<img src="{{ '/assets/img/Engineer Information Processing.JPG'}}" style="width:330px;margin-bottom:0" alt="">
 				</td>
 				<td>
-					<img src="{{ '/assets/img/oracle_ocjp.pdf'}}" style="width:300px;margin-bottom:0" alt="">
+					<img src="{{ '/assets/img/oracle_ocjp.jpg'}}" style="width:330px;margin-bottom:0" alt="">
 				</td>
 			</tr>
 			<tr>
