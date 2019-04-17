@@ -59,7 +59,7 @@ title: About Long Haul
 			교육 이력
 				<ul>
 					<li>
-						삼성 멀티 캠퍼스 Front-End Javascript Framework 수료(2018.01~)
+						삼성 멀티 캠퍼스 Front-End Javascript Framework 수료(2018.01~) ★
 					</li>
 				</ul>
 		</li>
@@ -67,10 +67,10 @@ title: About Long Haul
 			자격증
 				<ul>
 					<li>
-						정보처리기사
+						정보처리기사 ★
 					</li>
 					<li>
-						OCJP
+						OCJP ★
 					</li>
 				</ul>
 		</li>
@@ -78,31 +78,31 @@ title: About Long Haul
 			수상 이력
 				<ul>
 					<li>
-						2018 상상실현페스티벌 졸업프로젝트 우수상
+						2018 상상실현페스티벌 졸업프로젝트 우수상 ★
 					</li>
 					<li>
-						KSCI 한국컴퓨터정보학회 하계 학술대회 우수논문상
+						KSCI 한국컴퓨터정보학회 하계 학술대회 우수논문상 ★
 					</li>
 					<li>
-						2017 DSU 창업 경진대회 최우수상
+						2017 DSU 창업 경진대회 최우수상 ★
 					</li>
 					<li>
-						2017 동서대학교 상상 씨앗 공모전 장려상
+						2017 동서대학교 상상 씨앗 공모전 장려상 ★
 					</li>
 					<li>
-						2017 동서대학교 실전 창업 프로젝트 3등
+						2017 동서대학교 실전 창업 프로젝트 3등 ★
 					</li>
 					<li>
-						2016 상상 실현페스티벌 자율 프로젝트 우수상
+						2016 상상 실현페스티벌 자율 프로젝트 우수상 ★
 					</li>
 					<li>
-						2016 산학 연관이 함께하는 Dream-up festival 금상
+						2016 산학 연관이 함께하는 Dream-up festival 금상 ★
 					</li>
 					<li>
-						2016, 2017 Development Contest 최우수상
+						2016, 2017 Development Contest 최우수상 ★
 					</li>
 					<li>
-						2015 제2회 대학생 IP 창업 챌린지 캠프 최우수상
+						2015 제2회 대학생 IP 창업 챌린지 캠프 최우수상 ★
 					</li>
 				</ul>
 		</li>
@@ -115,10 +115,28 @@ title: About Long Haul
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li> -->
   	</ul>
+		<h2>Image</h2>
 		<table>
 			<tr>
 				<td>
-					<img src="{{ '/assets/img/KSCI.jpg' | prepend: site.baseurl }}" alt="">
+					<img src="{{ '/assets/img/multi.jpg'}}" style="width:" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:" alt="">
+				</td>
+			</tr>
+			<tr>
+				<td>
+					삼성 멀티 캠퍼스 Front-End Javascript Framework
+				</td>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:" alt="">
 				</td>
 			</tr>
 		</table>
