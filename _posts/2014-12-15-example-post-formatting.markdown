@@ -21,24 +21,25 @@ description: 산학공동과제로 (주)제이에이치코리아와 함께 진�
 
 <!-- <blockquote>개발 환경</blockquote> -->
 
-## 개발 기간
+### 개발 기간
 * 2018.07.01 ~ 2019.01.31
 
-## 개발 플랫폼
+### 개발 플랫폼
 1. Vue.js
 2. Spring
 3. Mysql
 
-## 주요업무
+### 주요업무
 * 요구사항 정의 및 플랫폼 관리(ERP) Front-End 개발 담당
 
-## 개발 내용
-<dl>
+### 개발 내용
+<!-- <dl>
   <dt>시스템구성도</dt>
   <dd><img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="margin-bottom:0" alt=""></dd>
   <dt>Milk</dt>
   <dd>White cold drink</dd>
-</dl>
+</dl> -->
 * 시스템 구성도
 <img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="margin-bottom:0" alt="">
-<!-- Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. -->
+* DB 설계
+<img src="{{ '/assets/img/산학공동과제_DB.png'}}" style="margin-bottom:0" alt="">
