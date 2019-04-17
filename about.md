@@ -96,9 +96,6 @@ title: About Long Haul
 						2016 산학 연관이 함께하는 Dream-up festival 금상 ★
 					</li>
 					<li>
-						2016, 2017 Development Contest 최우수상 ★
-					</li>
-					<li>
 						2015 제2회 대학생 IP 창업 챌린지 캠프 최우수상 ★
 					</li>
 				</ul>
@@ -178,6 +175,16 @@ title: About Long Haul
 				</td>
 				<td style="text-align:center">
 					Dream-up festival
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<img src="{{ '/assets/img/IP Challenge.jpeg'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:center">
+					대학생 IP 창업 챌린지 캠프
 				</td>
 			</tr>
 		</table>
