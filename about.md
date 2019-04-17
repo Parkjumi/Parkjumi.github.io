@@ -64,6 +64,17 @@ title: About Long Haul
 				</ul>
 		</li>
 		<li>
+			자격증
+				<ul>
+					<li>
+						정보처리기사
+					</li>
+					<li>
+						OCJP
+					</li>
+				</ul>
+		</li>
+		<li>
 			수상 이력
 				<ul>
 					<li>
@@ -95,13 +106,20 @@ title: About Long Haul
 					</li>
 				</ul>
 		</li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
+  		<!-- <li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
   		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
   		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
       <li>5 Post Loop with excerpt on Home Page</li>
   		<li>Previous / Next Post Navigation</li>
       <li>Estimated Reading Time for posts</li>
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li> -->
   	</ul>
+		<table>
+			<tr>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg' | prepend: site.baseurl }}" alt="">
+				</td>
+			</tr>
+		</table>
 </div>
