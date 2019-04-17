@@ -23,16 +23,10 @@ description: 산학공동과제로 (주)제이에이치코리아와 함께 진�
 
 ## 개발 기간
 * 2018.07.01 ~ 2019.01.31
-<!-- * Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item -->
 
 ## 개발 플랫폼
 1. Vue.js
 2. Spring
-    <!-- 1. Nested OL Item
-    2. Another Nested Item -->
 3. Mysql
 
 ## 주요업무
@@ -41,9 +35,10 @@ description: 산학공동과제로 (주)제이에이치코리아와 함께 진�
 ## 개발 내용
 <dl>
   <dt>시스템구성도</dt>
-  <dd><img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="width:330px;margin-bottom:0" alt=""></dd>
+  <dd><img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="margin-bottom:0" alt=""></dd>
   <dt>Milk</dt>
   <dd>White cold drink</dd>
 </dl>
-
+* 시스템 구성도
+<img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="margin-bottom:0" alt="">
 <!-- Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. -->
