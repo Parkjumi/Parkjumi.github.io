@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "소개합니다!"
-date:   2014-12-15
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+title:  "박주미"
+date:   2019-04-17
+description: Web 개발자가 되기 위해 노력하는 24살 초보 개발자입니다.
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro"><span class="dropcap">동</span>서대학교에서 컴퓨터공학을 전공하여 DN연구실 연구원으로 4년동안 활동했습니다. Web 개발에 관심이 많아 여러 팀 프로젝트에 참여하여 수상도 했습니다. 아래에는 활동이력이 나와있습니다. </p>
 
-# Heading 1
+<!-- # Heading 1
 
 ## Heading 2
 
@@ -17,7 +17,7 @@ description: This is a post description for meta purposes. This is also the exce
 
 ##### Heading 5
 
-###### Heading 6
+###### Heading 6 -->
 
 <blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
 
