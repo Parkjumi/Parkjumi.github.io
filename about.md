@@ -119,7 +119,7 @@ title: About Long Haul
 		<table>
 			<tr>
 				<td>
-					<img src="{{ '/assets/img/multi.jpg'}}" style="width:" alt="">
+					<img src="{{ '/assets/img/multi.JPG'}}" style="width:" alt="">
 				</td>
 				<td>
 					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:" alt="">
