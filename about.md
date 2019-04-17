@@ -115,7 +115,7 @@ title: About Long Haul
   		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li> -->
   	</ul>
-		<h2>Image</h2>
+		<h2>★Image</h2>
 		<table>
 			<tr>
 				<td>
@@ -130,13 +130,35 @@ title: About Long Haul
 			</tr>
 			<tr>
 				<td style="text-align:center">
-					<span>삼성 멀티 캠퍼스 Front-End Javascript Framework</span>
+					삼성 멀티 캠퍼스 수료
 				</td>
 				<td style="text-align:center">
 					정보처리기사
 				</td>
 				<td style="text-align:center">
 					OCJP
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<img src="{{ '/assets/img/Graduated Project.jpg'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/DSU Startup.PNG'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:center">
+					상상실현페스티벌 졸업프로젝트
+				</td>
+				<td style="text-align:center">
+					KSCI 한국컴퓨터정보학회
+				</td>
+				<td style="text-align:center">
+					2017 DSU 창업 경진대회
 				</td>
 			</tr>
 		</table>
