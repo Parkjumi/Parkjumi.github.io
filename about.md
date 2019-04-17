@@ -119,24 +119,24 @@ title: About Long Haul
 		<table>
 			<tr>
 				<td>
-					<img src="{{ '/assets/img/multi.JPG'}}" style="width:300px" alt="">
+					<img src="{{ '/assets/img/multi.JPG'}}" style="width:300px;margin-bottom:0" alt="">
 				</td>
 				<td>
-					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:300px" alt="">
+					<img src="{{ '/assets/img/Engineer Information Processing.JPG'}}" style="width:300px;margin-bottom:0" alt="">
 				</td>
 				<td>
-					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:300px" alt="">
+					<img src="{{ '/assets/img/oracle_ocjp.pdf'}}" style="width:300px;margin-bottom:0" alt="">
 				</td>
 			</tr>
-			<tr align=center>
-				<td>
-					삼성 멀티 캠퍼스 Front-End Javascript Framework
+			<tr>
+				<td style="text-align:center">
+					<span>삼성 멀티 캠퍼스 Front-End Javascript Framework</span>
 				</td>
-				<td>
-					삼성 멀티 캠퍼스 Front-End Javascript Framework
+				<td style="text-align:center">
+					정보처리기사
 				</td>
-				<td>
-					삼성 멀티 캠퍼스 Front-End Javascript Framework
+				<td style="text-align:center">
+					OCJP
 				</td>
 			</tr>
 		</table>
