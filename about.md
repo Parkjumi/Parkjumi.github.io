@@ -90,9 +90,6 @@ title: About Long Haul
 						2017 동서대학교 상상 씨앗 공모전 장려상 ★
 					</li>
 					<li>
-						2017 동서대학교 실전 창업 프로젝트 3등 ★
-					</li>
-					<li>
 						2016 상상 실현페스티벌 자율 프로젝트 우수상 ★
 					</li>
 					<li>
@@ -116,7 +113,7 @@ title: About Long Haul
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li> -->
   	</ul>
 		<h2>★Image</h2>
-		<table>
+		<table style="font-size:20px">
 			<tr>
 				<td>
 					<img src="{{ '/assets/img/multi.JPG'}}" style="width:330px;margin-bottom:0" alt="">
@@ -159,6 +156,28 @@ title: About Long Haul
 				</td>
 				<td style="text-align:center">
 					2017 DSU 창업 경진대회
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<img src="{{ '/assets/img/imagination.jpg'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/KSCI.jpg'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+				<td>
+					<img src="{{ '/assets/img/Dream-up Festival.jpg'}}" style="width:330px;margin-bottom:0" alt="">
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:center">
+					상상 씨앗 공모전
+				</td>
+				<td style="text-align:center">
+					2016 상상 실현페스티벌
+				</td>
+				<td style="text-align:center">
+					Dream-up festival
 				</td>
 			</tr>
 		</table>
