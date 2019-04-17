@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "박주미"
+title:  "식자재 유통 중개 서비스를 위한 개방형 웹 기반 플랫폼"
 date:   2019-04-17
-description: Web 개발자가 되기 위해 노력하는 24살 초보 개발자입니다.
+description: 산학공동과제로 (주)제이에이치코리아와 함께 진행한 프로젝트입니다.
 ---
 
-<p class="intro"><span class="dropcap">동</span>서대학교에서 컴퓨터공학을 전공하여 DN연구실 연구원으로 4년동안 활동했습니다. Web 개발에 관심이 많아 여러 팀 프로젝트에 참여하여 수상도 했습니다. 아래에는 활동이력이 나와있습니다. </p>
+<p class="intro"><span class="dropcap">소</span>규모 외식 사업자와 식자재 유통업자간 효율적인 식자재 대량 유통을 위한 중개 플랫폼입니다. </p>
 
 <!-- # Heading 1
 
@@ -19,7 +19,7 @@ description: Web 개발자가 되기 위해 노력하는 24살 초보 개발자�
 
 ###### Heading 6 -->
 
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
+<blockquote>개발 환경</blockquote>
 
 Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
