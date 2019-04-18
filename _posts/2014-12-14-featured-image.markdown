@@ -53,7 +53,7 @@ description: 졸업프로젝트 "플립 러닝에 기반한 e-그룹 학습 시�
 <figure style="text-align: center;"><img src="{{ '/assets/img/플립러닝_DB.jpg'}}" style="margin-bottom:0" alt=""><그림 3. 데이터베이스 설계></figure>
 
 ### 구현 결과
-<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그 목록.PNG'}}" style="margin-bottom:0" alt=""><그림 4. 스터디 그룹 목록 화면></figure>
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그룹 목록.PNG'}}" style="margin-bottom:0" alt=""><그림 4. 스터디 그룹 목록 화면></figure>
 그림 4는 스터디 활동 메인 화면을 나타낸다. 상단에 최근 대표 학생이 올린 자료 4개가 순서대로 나열되고 자료 상세보기를 통해 해당 자료를 볼 수 있다. 자료 리스트 밑 공간에는 학생 진도가 그래프 형식으로 나타난다. 질문 모아보기에는 자료에 등록한 댓글들을 리스트 형식으로 볼 수 있으며 댓글 내용과 댓글을 등록한 학생의 이름, 등록한 시간을 확인할 수 있다. 질문 모아보기를 통해 오프라인에서 토론을 위한 주제를 선택할 수 있다.
 
 <figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그룹_메인화면.PNG'}}" style="margin-bottom:0" alt=""><그림 5. 스터디그룹 활동 메인 화면></figure>
