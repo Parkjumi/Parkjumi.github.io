@@ -54,13 +54,13 @@ description: 졸업프로젝트 "플립 러닝에 기반한 e-그룹 학습 시�
 <figure style="text-align: center;"><img src="{{ '/assets/img/플립러닝_DB.jpg'}}" style="margin-bottom:0" alt=""><그림 5. 데이터베이스 설계></figure>
 
 #### 구현 결과
-<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그룹 목록.PNG'}}" style="margin-bottom:0" alt=""><그림 6. 스터디 그룹 목록 화면></figure>
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그룹 목록.PNG'}}" style="margin-bottom:0;width:70%" alt=""><그림 6. 스터디 그룹 목록 화면></figure>
 그림 6은 스터디 활동 메인 화면을 나타낸다. 상단에 최근 대표 학생이 올린 자료 4개가 순서대로 나열되고 자료 상세보기를 통해 해당 자료를 볼 수 있다. 자료 리스트 밑 공간에는 학생 진도가 그래프 형식으로 나타난다. 질문 모아보기에는 자료에 등록한 댓글들을 리스트 형식으로 볼 수 있으며 댓글 내용과 댓글을 등록한 학생의 이름, 등록한 시간을 확인할 수 있다. 질문 모아보기를 통해 오프라인에서 토론을 위한 주제를 선택할 수 있다.
 
-<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그룹_메인화면.PNG'}}" style="margin-bottom:0" alt=""><그림 7. 스터디그룹 활동 메인 화면></figure>
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/스터디그룹_메인화면.PNG'}}" style="margin-bottom:0;width:70%" alt=""><그림 7. 스터디그룹 활동 메인 화면></figure>
 그림 7은 자료 등록 페이지 화면을 보여준다. 대표학생은 자료를 등록하기 위해 자료 제목, 자료 내용, 동영상 태그, 첨부파일을 입력하며 동영상 태그에는 유튜브 url을 기술한다. 유튜브에서는 <iframe> 형식의 동영상 태그를 제공하므로 태그를 클립보드에 저장한 뒤 input 태그에 넣고 제출하면 강의 동영상이 연결된다.
 
-<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/자료데이터 관리.PNG'}}" style="margin-bottom:0" alt=""><그림 8. 자료 데이터 관리 화면></figure>
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/자료데이터 관리.PNG'}}" style="margin-bottom:0;width:70%" alt=""><그림 8. 자료 데이터 관리 화면></figure>
 
 학생들이 등록한 질문은 화면 하단에 표시된다. 댓글 확인이 된 것은 서버로 확인 데이터를 넘겨주며 학생 진도에서 해당 학생의 그래프가 증가시킨다.
 
