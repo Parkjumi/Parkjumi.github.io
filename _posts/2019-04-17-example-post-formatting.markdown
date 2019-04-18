@@ -55,8 +55,8 @@ description: 산학공동과제로 (주)제이에이치코리아와 함께 진�
 <figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_DB.png'}}" style="margin-bottom:0" alt=""><그림 2. DB 설계></figure>
 
 ### UI
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_주문목록.png'}}" style="margin-bottom:0" alt=""><그림 3. 주문 목록 이미지></figure>
-  -
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_신규발주등록.png'}}" style="margin-bottom:0" alt=""><그림 4. 신규 발주 등록 이미지></figure>
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/산학공동과제_주문목록.png'}}" style="margin-bottom:0" alt=""><그림 3. 주문 목록 이미지></figure>
+  - 그림 설명
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/산학공동과제_신규발주등록.png'}}" style="margin-bottom:0" alt=""><그림 4. 신규 발주 등록 이미지></figure>
 
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_배송팀수정.png'}}" style="margin-bottom:0" alt=""><그림 5. 배송팀 수정 이미지></figure>
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/산학공동과제_배송팀수정.png'}}" style="margin-bottom:0" alt=""><그림 5. 배송팀 수정 이미지></figure>
