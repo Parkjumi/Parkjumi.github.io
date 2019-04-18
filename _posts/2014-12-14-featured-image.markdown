@@ -63,14 +63,16 @@ description: 졸업프로젝트 "플립 러닝에 기반한 e-그룹 학습 시�
 
 학생들이 등록한 질문은 화면 하단에 표시된다. 댓글 확인이 된 것은 서버로 확인 데이터를 넘겨주며 학생 진도에서 해당 학생의 그래프가 증가시킨다.
 
+<hr>
+
 ### KSCI 한국컴퓨터정보학회 학술대회
   * 일시 : 2018.07.20
   * 저자 : 박주미, 이현동, 김동현, 조대수
   * 특이사항 : 우수논문상 수상
-  <img src="{{ '/assets/img/KSCI.jpg'}}" style="margin-bottom:0;width:400px" alt="">
+  <img src="{{ '/assets/img/KSCI.jpg'}}" style="margin-bottom:0;width:70%" alt="">
 
 ### 상상실현 페스티벌 졸업프로젝트
   * 일시 : 2018.11.29
   * 프로젝트 진행자 : 박주미
   * 특이사항 : 우수상 수상
-<img src="{{ '/assets/img/Graduated Project.jpg'}}" style="margin-bottom:0;width:400px" alt="">
+<img src="{{ '/assets/img/Graduated Project.jpg'}}" style="margin-bottom:0;width:70%" alt="">
