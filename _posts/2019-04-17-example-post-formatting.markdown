@@ -39,25 +39,24 @@ description: 산학공동과제로 (주)제이에이치코리아와 함께 진�
 ### 개발 내용
 * 시스템 구성도
 <figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="margin-bottom:0" alt=""><그림 1. 시스템 구성도></figure>
-  - Front-End
-   1. 웹 또는 모바일 기기로 접근할 수 있는 HTML5 웹표준 호환 UI/UX
-   2. 식자재 데이터 및 업무 관련 데이터 관리 기능 개발
-   3. 데이터 시각화 콘텐츠 제공 모듈 개발
-   4. 주문-결제 시스템과 연동 기능 개발
-  - Open type Back-End Platform
-   1. 범용성 및 호환성 보장하는 개방형 REST API 모듈
-   2. Back-End 보안 모듈
-   3. 데이터베이스 관리 모듈
-  - Database
-   1. REST API 호환 관계형 데이터베이스 구축
+  1. Front-End
+   - 웹 또는 모바일 기기로 접근할 수 있는 HTML5 웹표준 호환 UI/UX
+   - 식자재 데이터 및 업무 관련 데이터 관리 기능 개발
+   - 데이터 시각화 콘텐츠 제공 모듈 개발
+   - 주문-결제 시스템과 연동 기능 개발
+  2. Open type Back-End Platform
+   - 범용성 및 호환성 보장하는 개방형 REST API 모듈
+   - Back-End 보안 모듈
+   - 데이터베이스 관리 모듈
+  3. Database
+   - REST API 호환 관계형 데이터베이스 구축
 
 * DB 설계
-<img src="{{ '/assets/img/산학공동과제_DB.png'}}" style="margin-bottom:0" alt="">
+<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_DB.png'}}" style="margin-bottom:0" alt=""><그림 2. DB 설계></figure>
 
-### 개발 이미지
-* 주문 목록 이미지
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_주문목록.png'}}" style="margin-bottom:0" alt=""><그림 2. 주문 목록 이미지></figure>
-* 신규 발주 등록 이미지
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_신규발주등록.png'}}" style="margin-bottom:0" alt=""><그림 3. 신규 발주 등록 이미지></figure>
-* 배송팀 수정 이미지
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_배송팀수정.png'}}" style="margin-bottom:0" alt=""><그림 4. 배송팀 수정 이미지></figure>
+### UI
+<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_주문목록.png'}}" style="margin-bottom:0" alt=""><그림 3. 주문 목록 이미지></figure>
+  -
+<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_신규발주등록.png'}}" style="margin-bottom:0" alt=""><그림 4. 신규 발주 등록 이미지></figure>
+
+<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_배송팀수정.png'}}" style="margin-bottom:0" alt=""><그림 5. 배송팀 수정 이미지></figure>
