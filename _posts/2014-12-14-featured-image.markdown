@@ -62,3 +62,7 @@ description: 졸업프로젝트 "플립 러닝에 기반한 e-그룹 학습 시�
 <figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/자료데이터 관리.PNG'}}" style="margin-bottom:0" alt=""><그림 7. 자료 데이터 관리 화면></figure>
 
 학생들이 등록한 질문은 화면 하단에 표시된다. 댓글 확인이 된 것은 서버로 확인 데이터를 넘겨주며 학생 진도에서 해당 학생의 그래프가 증가시킨다.
+
+### KSCI 한국컴퓨터정보학회 학술대회
+
+<figure style="text-align: center;margin: 0"><img src="{{ '/assets/img/KSCI.jpg'}}" style="margin-bottom:0" alt="">우수논문상 수상</figure>
