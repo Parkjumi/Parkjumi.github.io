@@ -24,34 +24,24 @@ description: 졸업프로젝트 "플립 러닝에 기반한 e-그룹 학습 시�
 <!-- <blockquote>개발 환경</blockquote> -->
 
 ### 개발 기간
-* 2018.07.01 ~ 2019.01.31
+* 2018.03.01 ~ 2018.08.31
 
 ### 개발 플랫폼
-1. Vue.js
-2. Spring
+1. Node.js
+2. jQuery
 3. Mysql
-4. Atom(IDE)
+4. Semantic UI
+5. Atom(IDE)
 
-### 주요업무
-* Vuetify를 이용한 전반적인 레이아웃 컨트롤
-* axios를 이용한 데이터 바인딩 처리
+### 주요 업무
+* 데이터베이스 설계 및 개발
+* 보류
 
-### 개발 내용
-* 시스템 구성도
-<figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_시스템구성도.JPG'}}" style="margin-bottom:0" alt=""><그림 1. 시스템 구성도></figure>
-  1. Front-End
-   - 웹 또는 모바일 기기로 접근할 수 있는 HTML5 웹표준 호환 UI/UX
-   - 식자재 데이터 및 업무 관련 데이터 관리 기능 개발
-   - 데이터 시각화 콘텐츠 제공 모듈 개발
-   - 주문-결제 시스템과 연동 기능 개발
-  2. Open type Back-End Platform
-   - 범용성 및 호환성 보장하는 개방형 REST API 모듈
-   - Back-End 보안 모듈
-   - 데이터베이스 관리 모듈
-  3. Database
-   - REST API 호환 관계형 데이터베이스 구축
+### 시스템 개념도
+학생은 주제에 맞는 스터디 그룹을 등록하여 함께하고 싶은 학생들과 함께 그룹을 형성하게 된다. 관리자의 승인에 의해 스터디 그룹은 운영할 수 있게 된다. 교사 역할은 교사 학습 기간 내에 학습을 하고 자료를 등록한다. 자료는 첨부파일(ppt, 한글 파일 등)과 동영상을 올릴 수 있다. 교사 역할 학생만이 학생, 자료, 스터디 관리를 할 수 있는 권한이 생긴다. Fig.1은 제안 서비스 개념도를 나타낸다.
+<figure style="text-align: center;"><img src="{{ '/assets/img/시스템 개념도.png'}}" style="margin-bottom:0" alt=""><그림 1. 시스템 개념도></figure>
 
-* DB 설계
+### DB 설계
 <figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_DB.png'}}" style="margin-bottom:0" alt=""><그림 2. DB 설계></figure>
 
 ### UI
