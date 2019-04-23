@@ -54,7 +54,7 @@ description: 산학공동과제로 (주)제이에이치코리아와 함께 진�
 3. Database
  - REST API 호환 관계형 데이터베이스 구축
 
- <figure style="text-align: center;margin:0"><img src="{{ '/assets/img/시스템 구성도_산학프로젝트.png'}}" style="margin-bottom:0" alt=""><그림 2. 시스템 구성도></figure>
+ <figure style="text-align: center;margin:0"><img src="{{ '/assets/img/시스템 구성도_산학프로젝트.png'}}" style="style="width:70%" alt=""><그림 2. 시스템 구성도></figure>
 
 #### 데이터베이스 설계
 <figure style="text-align: center;"><img src="{{ '/assets/img/산학공동과제_DB.png'}}" style="margin-bottom:0" alt=""><그림 3. DB 설계></figure>
